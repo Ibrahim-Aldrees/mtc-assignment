@@ -122,3 +122,5 @@ Build a frontend that:
 - Focus on correctness and clarity — clean, readable code matters
 - The UI does not need to be elaborate, but it should be functional and presentable
 - If you have questions about the external API, refer to the [official docs](https://islamicapi.com/doc/ramadan/)
+
+
